@@ -8,85 +8,81 @@
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>2</integer>
+		</dict>
+		<key>Pods-FMDB.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 		<key>Pods-Reachability.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>3</integer>
 		</dict>
 		<key>Pods-SDWebImage.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>4</integer>
 		</dict>
 		<key>Pods-SVProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>5</integer>
 		</dict>
 		<key>Pods-UIActivityIndicator-for-SDWebImage.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>6</integer>
 		</dict>
 		<key>Pods-UIColor+MLPFlatColors.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>7</integer>
 		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2D5CE47ACEC20F47AFF5F0C0</key>
+		<key>2B1BFD1744010E582ED89016</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3C26E460EF8AC24BD4A6C834</key>
+		<key>548E2AB3A49BB759B1CD6F6E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4A27038AB8905D809A51C06B</key>
+		<key>66B5BD2766B6AF068C0B97C5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5AC56AA04A51628F491F16CB</key>
+		<key>6823F42FD4D7944D056DAB0A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>914FF09CF37DF619ABA11D9D</key>
+		<key>7AC408BD4F1E6CD051483FB4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B68EEAFBB8814097EF326DC3</key>
+		<key>B9D6F81672DB169DE15E1169</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C55BFC2177D5CC00F441F5C6</key>
+		<key>BE77F11A15A13ECF937A94E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C8C6DA836C5172BCC2D43424</key>
 		<dict>
 			<key>primary</key>
 			<true/>

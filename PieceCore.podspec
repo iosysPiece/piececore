@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.summary = 'This is piece library for iOS.'
     s.homepage = 'https://jokapi.jp'
     s.author = "jokerpiece"
-    s.source = { :git => "https://github.com/jokerpiece/PieceCore.git", :tag => "#{s.version}"}
+    s.source = { :git => "https://github.com/iosysPiece/piececore.git", :tag => "#{s.version}"}
     s.platform  = :ios, "7.0"
     s.source_files = "PieceCore/**/*.{h,m}"
     s.resources = "PieceCore/Resources/**/*.{png, jpg}","PieceCore/**/*.xib"
@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
     s.dependency 'UIActivityIndicator-for-SDWebImage'
     s.dependency 'UIColor+MLPFlatColors'
     s.dependency 'SVProgressHUD', '~> 1.0'
+    s.dependency 'FMDB'
 end
